@@ -1,8 +1,6 @@
 
 # Faculdade
 
-# CSS2
-
 # Exercício 2 - Introdução à linguagem de estilos CSS3
 
 Aplique CSS aos elementos da sua página do exercício anterior. Você deve, necessariamente:
