@@ -1,0 +1,68 @@
+
+body {
+    background-color: white;
+    background-color:rgb(36, 39, 34);
+}
+
+h1 {
+    color:black;
+    text-align:left;
+    background-color:lightgrey;
+    border: solid 4px black; 
+    font-family:'Courier New', sans-serif;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: lighter; 
+
+}
+
+h2 {
+    color:white;
+    text-align:center;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: solid 2px white;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(36, 39, 34);
+    display: inline-block;
+    margin-left: 200px;
+ }
+ 
+header {
+    color:black;
+    text-align: justify;
+    border: solid 1px black; 
+    background-color: lightskyblue;
+    padding: 5px;
+    width: 150px;
+   
+}
+.p {
+    color:black;
+    text-align: center;
+    border: solid 2px black; 
+    background-color: lightskyblue;
+    padding: 5px;
+    
+}
+
+p > a {
+    color:purple;
+}
+
+.texto {
+    color:red;
+    padding-left: 330px;
+}
+
+.slogan {
+    color:white;
+}
+#imagem{
+    align:"center";
+    width:750px; 
+    height:600px ;
+    alt:"imagem de uma mão";
+}
